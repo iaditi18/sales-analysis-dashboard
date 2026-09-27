@@ -47,5 +47,7 @@ Automated layout formatting and dynamic view switching.
 | :--- | :--- | :--- |
 | **Category Concentration** | Top 20% of catalog items generate disproportionate gross revenue. | Streamline low-velocity SKUs and reallocate supply chain focus to top performers. |
 | **Territory Variance** | High sales conversion rates identified in distinct core regions. | Replicate high-conversion territory sales frameworks across underperforming regions. |
+
+
 | **Seasonal Movement** | Identifiable demand peaks driven by specific buying cycles. | Adjust inventory holding thresholds ahead of high-volume seasonal spikes. |
 
