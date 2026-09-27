@@ -17,3 +17,21 @@ Consolidated KPI Summary: Macro-level visibility into total revenue, order count
 Product & Line Mix: Deep-dive analysis tracking SKU performance, sales mix, and margin distribution.
 Geographic Distribution: Territory-level contribution and cross-channel sales tracking.
 Temporal Trends: Longitudinal evaluation detailing month-over-month (MoM) and quarter-over-quarter (QoQ) progression.
+
+## Presentation & UX Layer:
+Dynamic Pivot Visualizations: Three bespoke charts linked to aggregation tables with synchronized axes and responsive formatting[cite: 1].
+
+Relational Slicers: Bidirectional slicer architecture allowing multi-parameter cross-filtering across disparate reporting views simultaneously[cite: 1].
+
+Interactive Control Interface: Four integrated worksheet form controls mapped to internal automation routines, delivering an application-like interface for end users.
+
+## Automation Layer (VBA):
+Underlying Engine: Embedded Visual Basic for Applications (vbaProject.bin) codebase handling interface events and programmatic updates[cite: 1]:
+
+Multi-table cache invalidation and coordinated re-querying.
+
+Deterministic state restoration (resets all filters, active selections, and slicer states to standard baselines).
+
+Automated layout formatting and dynamic view switching.
+
+4. Analytical Findings
