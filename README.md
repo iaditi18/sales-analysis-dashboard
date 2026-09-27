@@ -19,14 +19,14 @@ Geographic Distribution: Territory-level contribution and cross-channel sales tr
 Temporal Trends: Longitudinal evaluation detailing month-over-month (MoM) and quarter-over-quarter (QoQ) progression.
 
 ## Presentation & UX Layer:
-Dynamic Pivot Visualizations: Three bespoke charts linked to aggregation tables with synchronized axes and responsive formatting[cite: 1].
+Dynamic Pivot Visualizations: Three bespoke charts linked to aggregation tables with synchronized axes and responsive formatting.
 
-Relational Slicers: Bidirectional slicer architecture allowing multi-parameter cross-filtering across disparate reporting views simultaneously[cite: 1].
+Relational Slicers: Bidirectional slicer architecture allowing multi-parameter cross-filtering across disparate reporting views simultaneously.
 
 Interactive Control Interface: Four integrated worksheet form controls mapped to internal automation routines, delivering an application-like interface for end users.
 
 ## Automation Layer (VBA):
-Underlying Engine: Embedded Visual Basic for Applications (vbaProject.bin) codebase handling interface events and programmatic updates[cite: 1]:
+Underlying Engine: Embedded Visual Basic for Applications (vbaProject.bin) codebase handling interface events and programmatic updates.
 
 Multi-table cache invalidation and coordinated re-querying.
 
@@ -34,4 +34,11 @@ Deterministic state restoration (resets all filters, active selections, and slic
 
 Automated layout formatting and dynamic view switching.
 
-4. Analytical Findings
+## Analytical Findings:
+
+| Analytical Focus | Business Takeaway | Strategic Recommendation |
+| :--- | :--- | :--- |
+| **Category Concentration** | Top 20% of catalog items generate disproportionate gross revenue. | Streamline low-velocity SKUs and reallocate supply chain focus to top performers. |
+| **Territory Variance** | High sales conversion rates identified in distinct core regions. | Replicate high-conversion territory sales frameworks across underperforming regions. |
+| **Seasonal Movement** | Identifiable demand peaks driven by specific buying cycles. | Adjust inventory holding thresholds ahead of high-volume seasonal spikes. |
+
